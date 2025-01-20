@@ -70,4 +70,4 @@ Are you an hacker, innovator, creator, or enthusiast? Let’s make Bengaluru a b
 
 ---
 
-_Derived/inspired by [FOSS United Public Policy Charter](https://forum.fossunited.org/t/help-wanted-foss-united-public-policy-charter-v0/3341)_
+_Derived/inspired by [FOSS United Public Policy Charter discussion](https://forum.fossunited.org/t/help-wanted-foss-united-public-policy-charter-v0/3341)_.
