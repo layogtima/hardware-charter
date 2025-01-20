@@ -69,3 +69,5 @@ This charter is a living document. We invite individuals, organizations, institu
 Are you an hacker, innovator, creator, or enthusiast? Let’s make Bengaluru a beacon of open hardware excellence!
 
 ---
+
+_Derived/inspired by [FOSS United Public Policy Charter](https://forum.fossunited.org/t/help-wanted-foss-united-public-policy-charter-v0/3341)_
