@@ -62,7 +62,7 @@ This charter is a living document. We invite individuals, organizations, institu
 ---
 
 ## 🤝 Signatories
-- :white_check_mark: **Amit from absurd.industries**
+- :white_check_mark: **Amit from absurd.industries (Proposer) **
 - :white_check_mark: **[YOUR NAME] from [ORGANIZATIONAL AFFILIATION OR INDIVIDUAL]**
 
 ### Call to Action:  
