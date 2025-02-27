@@ -1,4 +1,4 @@
-# Bengaluru Open Source Hardware Charter  
+# Open Hardware Charter  
 **Version 1.0**
 
 ## 🛠️ Mission  
